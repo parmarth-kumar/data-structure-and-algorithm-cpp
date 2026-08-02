@@ -22,17 +22,31 @@ Each topic contains:
 
 ```
 data-structure-and-algorithm-cpp/
-
-├── 01-variables-and-data-types
-├── 02-operators
-├── 03-conditionals
-├── 04-loops
-├── 05-patterns
-├── 06-functions
-├── 07-recursion
-├── 08-pointers
-├── 09-arrays
-...
+├── 01-variables-and-data-types/
+│   ├── q1-area-of-square.cpp
+│   ├── q2-bill-with-gst.cpp
+│   └── q3-simple-interest.cpp
+├── 02-operators/
+│   └── constants.cpp
+├── 03-conditional-statements/
+│   ├── if-else_if-else.cpp
+│   └── tax.cpp
+├── 05-patterns/
+│   ├── butterfly.cpp
+│   ├── diamond.cpp
+│   ├── floyd-triangle.cpp
+│   ├── hollow-rect.cpp
+│   ├── inverted-star.cpp
+│   ├── nested-loops.cpp
+│   ├── rotated-inverted-half-pyramid.cpp
+│   └── star.cpp
+└── 06-functions/
+    ├── 01_find_product.cpp
+    ├── 02_check_odd_or_even.cpp
+    ├── 03_calculate_factorial.cpp
+    ├── 04_check_prime_or_not.cpp
+    ├── 05_binomial_coeff.cpp
+    └── 06_print_all_prime.cpp
 ```
 
 ---
@@ -50,19 +64,19 @@ data-structure-and-algorithm-cpp/
 
 ## 🛠 Topics Covered
 
-- Variables
-- Data Types
-- Operators
-- Conditionals
-- Loops
-- Patterns
-- Functions
-- Arrays
-- Pointers
-- STL *(coming soon)*
-- Linked Lists *(coming soon)*
-- Trees *(coming soon)*
-- Graphs *(coming soon)*
+- [x] Variables and Data Types (`01-variables-and-data-types`)
+- [x] Operators (`02-operators`)
+- [x] Conditional Statements (`03-conditional-statements`)
+- [x] Patterns (`05-patterns`)
+- [x] Functions (`06-functions`)
+- [ ] Loops *(coming soon)*
+- [ ] Arrays *(coming soon)*
+- [ ] Pointers *(coming soon)*
+- [ ] Recursion *(coming soon)*
+- [ ] Standard Template Library (STL) *(coming soon)*
+- [ ] Linked Lists *(coming soon)*
+- [ ] Trees *(coming soon)*
+- [ ] Graphs *(coming soon)*
 
 ---
 
